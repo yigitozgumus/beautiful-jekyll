@@ -1,7 +1,9 @@
 ---
 title: "Anomaly Detection using GAN's"
-excerpt: "My thoughts about anomaly detection using GAN's"
+subtitle: "My thoughts about anomaly detection using GAN's"
 author_profile: false
+toc: true
+cover-img: "./../assets/images/home/post_header_teaser.jpg"
 tags: [anomaly-detection, gan, deep-learning]
 js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"
 ---

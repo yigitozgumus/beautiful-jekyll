@@ -1,9 +1,8 @@
 ---
 title: "Thesis Completed!"
-excerpt: "I graduated from Politecnico di Milano !"
+subtitle: "I graduated from Politecnico di Milano !"
 author_profile: true
-header:
-  overlay_image: "./../assets/images/posts/thesis_completed/header.jpg"
+cover-img: "./../assets/images/posts/thesis_completed/header.jpg"
 tags: [misc]
 ---
 
